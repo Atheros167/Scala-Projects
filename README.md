@@ -5,7 +5,7 @@
 #### **Data Visualization Project**
     - This project was to showcase some of the cool visualizations that are possible with Scala
 
-    - This imports data obtained from [Link]('https://www.kaggle.com/hiteshp/make-in-india/data') to do some dashboarding and visualization exercises.The dataset details the Imports and Exports from India for three years (2014-2016) to various countries.From this we can build a few simple plots and summarizations
+    - This imports data obtained from [Link]("https://www.kaggle.com/hiteshp/make-in-india/data") to do some dashboarding and visualization exercises.The dataset details the Imports and Exports from India for three years (2014-2016) to various countries.From this we can build a few simple plots and summarizations
 
     - There are a lot of possible graphs, I have tried a few of them
 
