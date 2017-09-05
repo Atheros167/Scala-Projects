@@ -67,3 +67,30 @@
    7)	CHANNEL: customers Channel - Horeca (Hotel/Restaurant/Cafe) or Retail channel (Nominal)
 2. The data is available at [Clus_data](http://archive.ics.uci.edu/ml/datasets/Wholesale+customers)
 3. The code is available at [Clus_code](https://github.com/Atheros167/Scala-Projects/blob/master/Kmeans_wholesale_customers.scala)
+
+
+
+#### Principal Component Analysis
+
+1. The objective is to use the dataset obtained from Breast Cancer Wisconsin (Diagnostic) Database to perform PCA on the data.
+2. Here is a description of the dataset used:
+
+   Number of Instances: 569
+   Number of Attributes: 30 numeric, predictive attributes and the class
+   :Attribute Information:
+       - radius (mean of distances from center to points on the perimeter)
+       - texture (standard deviation of gray-scale values)
+       - perimeter
+       - area
+       - smoothness (local variation in radius lengths)
+       - compactness (perimeter^2 / area - 1.0)
+       - concavity (severity of concave portions of the contour)
+       - concave points (number of concave portions of the contour)
+       - symmetry
+       - fractal dimension ("coastline approximation" - 1)
+   
+The mean, standard error, and "worst" or largest (mean of the three largest values) of these features were computed for each image, resulting in 30 features.  For instance, field 3 is Mean Radius, field 13 is Radius SE, field 23 is Worst Radius.
+
+3. The code is available at [PCA_code](https://github.com/Atheros167/Scala-Projects/blob/master/PCA_Cancer_data.scala)
+4. The data is available at [PCA_data](https://github.com/Atheros167/Scala-Projects/blob/master/Cancer_Data.csv)
+         
