@@ -4,14 +4,12 @@
 
 #### **Data Visualization Project**
 1. This project was to showcase some of the cool visualizations that are possible with Scala
-2. This imports data obtained from [Link](https://www.kaggle.com/hiteshp/make-in-india/data) 
+2. This imports data obtained from [DVP](https://www.kaggle.com/hiteshp/make-in-india/data) 
    to do some dashboarding and visualization exercises.The dataset details the Imports and Exports from India for three years (2014-2016) to various countries.From this we can build a few simple plots and summarizations
 3. There are a lot of possible graphs, I have tried a few of them
-4. The URL to work interactively on this is available here:[Link]('https://my.datascientistworkbench.com/tools/zeppelin-notebook/')
-    
-    
-    Pie Chart: ![Alt](C:\Users\rames\Desktop\Resume Related/pie_chart.jpg "Pie_chart")
-    Bar Graph: ![Alt](C:\Users\rames\Desktop\Resume Related/bar_chart.jpg "Bar_Graph")
+4. The URL to work interactively on this is available here:[Results]('https://my.datascientistworkbench.com/tools/zeppelin-notebook/')
+5. Pie Chart:![Pie](C:\Users\rames\Desktop\Resume Related/pie_chart.jpg)
+6. Bar Graph:![Bar](C:\Users\rames\Desktop\Resume Related/bar_chart.jpg)
     
 
 #### ** String_Compare **
@@ -23,19 +21,19 @@
     Index of the common characters.
     Toggle the cases of the common characters in both words
     
-    Here is the link to the Zepl Online Notebook :   [Link]('https://www.zepl.com/viewer/notebooks/bm90ZTovL2F0aGVyb3MxNjcvMWQ3MThiMjliZjIxNDEzZmJhZWZjMTMzMThkZDUxYWYvbm90ZS5qc29u')
+    Here is the link to the Zepl Online Notebook :[Str_comp]('https://www.zepl.com/viewer/notebooks/bm90ZTovL2F0aGVyb3MxNjcvMWQ3MThiMjliZjIxNDEzZmJhZWZjMTMzMThkZDUxYWYvbm90ZS5qc29u')
 
 #### **Fibonacci Sequence**
 1. Learning to work with integers and
 2. Creating Objects with Main and
 3. Creating Objects without Main
-4. Here is the link to Zepl Online Notebook : [Link]('https://www.zepl.com/spaces/S_ZEPL/2f367acdce714ae990a9baedf0829479')
+4. Here is the link to Zepl Online Notebook : [Fib_Seq]('https://www.zepl.com/spaces/S_ZEPL/2f367acdce714ae990a9baedf0829479')
    
 
-#### ** Kaggle Value Shopper **
+#### ** Kaggle Value Shopper - Logistic Regression**
 
 1. This is a Kaggle Competition located at: 
-   [Link]('https://www.kaggle.com/c/acquire-valued-shoppers-challenge/data')
+   [Val_shop]('https://www.kaggle.com/c/acquire-valued-shoppers-challenge/data')
     
     The dataset includes the Offer Table with details related to the Offers for coupons. The large transaction table holds 1 years worth of transaction history. There are two separate datasets - Training Dataset and Test Dataset.
 
