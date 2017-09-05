@@ -9,7 +9,7 @@
 
     - There are a lot of possible graphs, I have tried a few of them
 
-    - The URL to work interactively on this is available Here [Link](https://my.datascientistworkbench.com/tools/zeppelin-notebook/)
+    - The URL to work interactively on this is available Here [Link](https://my.datascientistworkbench.com/tools/zeppelin-notebook)
     
     Pie Chart: ![Alt](C:\Users\rames\Desktop\Resume Related/pie_chart.jpg "Pie_chart")
     Bar Graph: ![Alt](C:\Users\rames\Desktop\Resume Related/bar_chart.jpg "Bar_Graph")
