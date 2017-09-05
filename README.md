@@ -53,3 +53,17 @@
 3. The data set is included as Ecommerce_customer.csv
 4. The dataset is available in the [Data](https://github.com/Atheros167/Scala-Projects/blob/master/Ecommerce%20Customers.csv)
 5. The code is available at the [Code_lin_reg](https://github.com/Atheros167/Scala-Projects/blob/master/Ecommerce_Customers.scala)
+
+
+#### Unsupervised Clustering - K Means Clustering
+
+1. The objective is to use the data available to correctly predict the region from the following 7 input variables:
+   1)	FRESH: annual spending (m.u.) on fresh products (Continuous);
+   2)	MILK: annual spending (m.u.) on milk products (Continuous);
+   3)	GROCERY: annual spending (m.u.)on grocery products (Continuous);
+   4)	FROZEN: annual spending (m.u.)on frozen products (Continuous)
+   5)	DETERGENTS_PAPER: annual spending (m.u.) on detergents and paper products (Continuous)
+   6)	DELICATESSEN: annual spending (m.u.)on and delicatessen products (Continuous);
+   7)	CHANNEL: customers Channel - Horeca (Hotel/Restaurant/Cafe) or Retail channel (Nominal)
+2. The data is available at [Clus_data](http://archive.ics.uci.edu/ml/datasets/Wholesale+customers)
+3. The code is available at [Clus_code](https://github.com/Atheros167/Scala-Projects/blob/master/Kmeans_wholesale_customers.scala)
