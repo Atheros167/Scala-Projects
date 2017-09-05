@@ -6,10 +6,9 @@
 1. This project was to showcase some of the cool visualizations that are possible with Scala
 2. This imports data obtained from [DVP](https://www.kaggle.com/hiteshp/make-in-india/data) 
    to do some dashboarding and visualization exercises.The dataset details the Imports and Exports from India for three years (2014-2016) to various countries.From this we can build a few simple plots and summarizations
-3. There are a lot of possible graphs, I have tried a few of them
+3. There are a lot of possible graphs, I have tried Pie Chart and Bar Graph
 4. The URL to work interactively on this is available here:[Results]('https://my.datascientistworkbench.com/tools/zeppelin-notebook/')
-5. Pie Chart:![Pie](C:\Users\rames\Desktop\Resume Related/pie_chart.jpg)
-6. Bar Graph:![Bar](C:\Users\rames\Desktop\Resume Related/bar_chart.jpg)
+
     
 
 #### ** String_Compare **
