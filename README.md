@@ -8,7 +8,7 @@
    to do some dashboarding and visualization exercises.The dataset details the Imports and Exports from India for three years (2014-2016) to various countries.From this we can build a few simple plots and summarizations
 3. There are a lot of possible graphs, I have tried Pie Chart and Bar Graph
 4. The URL to work interactively on this is available here
-[Results]('https://my.datascientistworkbench.com/tools/zeppelin-notebook')
+[Results](https://my.datascientistworkbench.com/tools/zeppelin-notebook)
 
     
 
@@ -22,14 +22,14 @@
     Toggle the cases of the common characters in both words
  
  Here is the link to the Zepl Online Notebook : 
- [Str_comp]('https://www.zepl.com/viewer/notebooks/bm90ZTovL2F0aGVyb3MxNjcvMWQ3MThiMjliZjIxNDEzZmJhZWZjMTMzMThkZDUxYWYvbm90ZS5qc29u')
+ [Str_comp](https://www.zepl.com/spaces/S_ZEPL/1d718b29bf21413fbaefc13318dd51af)
 
 #### **Fibonacci Sequence**
 1. Learning to work with integers and
 2. Creating Objects with Main and
 3. Creating Objects without Main
 4. Here is the link to Zepl Online Notebook : 
-[Fib_Seq]('https://www.zepl.com/spaces/S_ZEPL/2f367acdce714ae990a9baedf0829479')
+[Fib_Seq](https://www.zepl.com/spaces/S_ZEPL/2f367acdce714ae990a9baedf0829479)
    
 
 #### **Kaggle Value Shopper - Logistic Regression**
