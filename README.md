@@ -11,7 +11,7 @@
 
     
 
-#### ** String_Compare **
+#### **String_Compare**
 
 1. Check if any alphabet in one word exists in another word
 2. Scope of the project
@@ -29,7 +29,7 @@
 4. Here is the link to Zepl Online Notebook : [Fib_Seq]('https://www.zepl.com/spaces/S_ZEPL/2f367acdce714ae990a9baedf0829479')
    
 
-#### ** Kaggle Value Shopper - Logistic Regression**
+#### **Kaggle Value Shopper - Logistic Regression**
 
 1. This is a Kaggle Competition located at: 
    [Val_shop]('https://www.kaggle.com/c/acquire-valued-shoppers-challenge/data')
