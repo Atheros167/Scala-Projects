@@ -40,3 +40,16 @@
     The dataset includes the Offer Table with details related to the Offers for coupons. The large transaction table holds 1 years worth of transaction history. There are two separate datasets - Training Dataset and Test Dataset.
 
     The purpose of this project is to use the available data to build a Logistic Regression model that uses the training data to create a model that can be used to score the test dataset. The output is to predict the likelihood of a customer using the coupon.
+
+
+    
+#### **Ecommerce Customer - Linear Regression**
+
+1. We have a dataset containing customer information for a ecommerce company
+2. Our Objective here is to use the available data:
+    Transform the data into Labels and Features for ML library to use
+    Apply Linear Regression on the data to predict the yearly spend by a customer.
+    Print out the metrics of the Regression models
+3. The data set is included as Ecommerce_customer.csv
+4. The dataset is available in the [Data](https://github.com/Atheros167/Scala-Projects/blob/master/Ecommerce%20Customers.csv)
+5. The code is available at the [Code_lin_reg](https://github.com/Atheros167/Scala-Projects/blob/master/Ecommerce_Customers.scala)
