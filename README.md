@@ -7,7 +7,7 @@
 2. This imports data obtained from [DVP](https://www.kaggle.com/hiteshp/make-in-india/data) 
    to do some dashboarding and visualization exercises.The dataset details the Imports and Exports from India for three years (2014-2016) to various countries.From this we can build a few simple plots and summarizations
 3. There are a lot of possible graphs, I have tried Pie Chart and Bar Graph
-4. The URL to work interactively on this is available here 
+4. The URL to work interactively on this is available here
 [Results]('https://my.datascientistworkbench.com/tools/zeppelin-notebook')
 
     
@@ -20,9 +20,9 @@
     Which characters are common?
     Index of the common characters.
     Toggle the cases of the common characters in both words
-    
-    Here is the link to the Zepl Online Notebook : 
-    [Str_comp]('https://www.zepl.com/viewer/notebooks/bm90ZTovL2F0aGVyb3MxNjcvMWQ3MThiMjliZjIxNDEzZmJhZWZjMTMzMThkZDUxYWYvbm90ZS5qc29u')
+ 
+ Here is the link to the Zepl Online Notebook : 
+ [Str_comp]('https://www.zepl.com/viewer/notebooks/bm90ZTovL2F0aGVyb3MxNjcvMWQ3MThiMjliZjIxNDEzZmJhZWZjMTMzMThkZDUxYWYvbm90ZS5qc29u')
 
 #### **Fibonacci Sequence**
 1. Learning to work with integers and
