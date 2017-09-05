@@ -35,7 +35,7 @@
 #### **Kaggle Value Shopper - Logistic Regression**
 
 1. This is a Kaggle Competition located at: 
-[Val_shop]('https://www.kaggle.com/c/acquire-valued-shoppers-challenge/data')
+[Val_shop](https://www.kaggle.com/c/acquire-valued-shoppers-challenge/data)
     
     The dataset includes the Offer Table with details related to the Offers for coupons. The large transaction table holds 1 years worth of transaction history. There are two separate datasets - Training Dataset and Test Dataset.
 
