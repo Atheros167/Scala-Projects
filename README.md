@@ -94,3 +94,8 @@ The mean, standard error, and "worst" or largest (mean of the three largest valu
 3. The code is available at [PCA_code](https://github.com/Atheros167/Scala-Projects/blob/master/PCA_Cancer_data.scala)
 4. The data is available at [PCA_data](https://github.com/Atheros167/Scala-Projects/blob/master/Cancer_Data.csv)
          
+#### Recommendation Engine
+
+1. The Objective of this code is to build out a recommendation engine from the MovieLens dataset (ML20M) located at [MovieLens_data](https://grouplens.org/datasets/movielens/) to read the User_id, Movie_id and Rating Information with 20Million Movie ratings and create a ALS recommendation Algorithm
+2. Use the ALS model to build and score the test set (30% of the input data) to measure/evaluate the model
+3. The output code is located at: [MLens_Code](https://github.com/Atheros167/Scala-Projects/blob/master/MovieLens_recommendation_system.scala)
