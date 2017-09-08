@@ -99,3 +99,12 @@ The mean, standard error, and "worst" or largest (mean of the three largest valu
 1. The Objective of this code is to build out a recommendation engine from the MovieLens dataset (ML20M) located at [MovieLens_data](https://grouplens.org/datasets/movielens/) to read the User_id, Movie_id and Rating Information with 20Million Movie ratings and create a ALS recommendation Algorithm
 2. Use the ALS model to build and score the test set (30% of the input data) to measure/evaluate the model
 3. The output code is located at: [MLens_Code](https://github.com/Atheros167/Scala-Projects/blob/master/MovieLens_recommendation_system.scala)
+
+
+#### Kaggle Competition - New York Taxi Trip
+
+1. The competition is live as of now and the objective is to predict the trip duration for the test dataset provided using a model built out of train dataset.
+2. The competition can be found at [NYTTrip](https://www.kaggle.com/c/nyc-taxi-trip-duration)
+3. Built a simple Linear Regression to predict the trip duration. [NYTT_Code](https://github.com/Atheros167/Scala-Projects/blob/master/NewYorkTaxiTrip.scala)
+* Resulting RSquare of 0.45 can be improved.
+* Next steps to improve the model would be to explore other model fits like Neural Networks
